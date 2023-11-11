@@ -1,0 +1,20 @@
+{
+  "name": "server_recipe_social",
+  "version": "1.0.0",
+  "description": "Social media for recipes to share with friends",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoreyOliver/recipe_social.git"
+  },
+  "author": "Corey Oliver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoreyOliver/recipe_social/issues"
+  },
+  "homepage": "https://github.com/CoreyOliver/recipe_social#readme"
+}
