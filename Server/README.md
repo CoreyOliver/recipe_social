@@ -1,7 +1,7 @@
 Server Readme for social media recipe App
 
 
--Express
+-Express [x]
 -firebase?
     -mongo?
 -passport
@@ -9,6 +9,6 @@ Server Readme for social media recipe App
 
 
 -developer
-    -nodemon
-    -morgan
-    -cors
+    -nodemon [x]
+    -morgan [x]
+    -cors [x]
