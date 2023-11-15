@@ -12,3 +12,4 @@ Server Readme for social media recipe App
     -nodemon [x]
     -morgan [x]
     -cors [x]
+    -logger
